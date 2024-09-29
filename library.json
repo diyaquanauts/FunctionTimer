@@ -1,0 +1,12 @@
+{
+    "name": "FunctionTimer",
+    "version": "1.0.0",
+    "description": "A simple timer to schedule periodic function execution.",
+    "keywords": "timer, scheduling",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/yourusername/my_function_timer_library.git"
+    },
+    "frameworks": "arduino",
+    "platforms": "espressif32"
+}
